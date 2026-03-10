@@ -231,8 +231,7 @@ show_image = True            # 显示运势信息
 MIT License
 
 ## 👤 作者
-
-AstrBot 开发团队
+zaixiZaixiSJTU
 
 ---
 
