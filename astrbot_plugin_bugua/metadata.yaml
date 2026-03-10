@@ -1,0 +1,6 @@
+name: astrbot_plugin_bugua
+desc: 梅花易数时间起卦插件，正宗先天八卦序推演本卦·互卦·变卦，含五行体用生克分析
+help: 输入 /卜卦 [主题] 起卦，输入 /卜卦帮助 查看完整说明
+version: v2.0.0
+author: AstrBot
+repo: https://github.com/astrbot/astrbot_plugin_bugua
